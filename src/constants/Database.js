@@ -1,1 +1,2 @@
-export const URL_API ="https://bakeryapp-1a56e-default-rtdb.firebaseio.com"
+export const URL_API ="https://bakeryapp-1a56e-default-rtdb.firebaseio.com";
+export const URL_AUTH_SIGNUP = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyC4K6g6jDU2VZujDZL6pYgrJT0gVKZk_C4";
